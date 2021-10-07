@@ -25,6 +25,7 @@ h1 {
 }
 p {
     font-size: 1em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
     line-height: 1.2em;
     color: #333;
 }
